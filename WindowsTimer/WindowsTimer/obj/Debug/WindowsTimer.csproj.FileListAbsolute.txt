@@ -1,0 +1,10 @@
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.csprojAssemblyReference.cache
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.Timer.resources
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.Properties.Resources.resources
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\bin\Debug\WindowsTimer.exe.config
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\bin\Debug\WindowsTimer.exe
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\bin\Debug\WindowsTimer.pdb
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.exe
+C:\Users\Berke\source\repos\WindowsTimer\WindowsTimer\obj\Debug\WindowsTimer.pdb
