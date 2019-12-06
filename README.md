@@ -1,3 +1,3 @@
 # WindowsTimer
 
-SET A TIMER FOR WINDOWS SHUTDOWN.
+Interface for setting a timer for windows shutdown.
